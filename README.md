@@ -14,7 +14,7 @@ Para executar o código, você pode seguir os seguintes passos:
 2. 
 2. Certifique-se de que o arquivo "housing.csv" com os dados do conjunto "Boston Housing" esteja na pasta "sample_data".
 
-3. Abra o arquivo "Boston Housing.ipynb" em um ambiente Jupyter Notebook ou Google Colab.
+3. Abra o arquivo "Boston Housing.py" em um ambiente Jupyter Notebook ou Google Colab.
 
 4. Execute o código em cada célula para visualizar os resultados e as previsões feitas pelos modelos.
 
